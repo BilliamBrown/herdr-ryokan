@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" shape-rendering="crispEdges">
+  <rect width="320" height="200" fill="#121420"/>
+  <!-- sidebar -->
+  <rect width="78" height="200" fill="#16172a"/>
+  <rect x="78" width="1" height="200" fill="#2c3055"/>
+  <!-- section: spaces -->
+  <rect x="8" y="12" width="6" height="6" fill="#5b6391"/>
+  <rect x="18" y="12" width="30" height="5" fill="#9aa5ce"/>
+  <rect x="8" y="26" width="5" height="4" fill="#ff9e64"/>
+  <rect x="16" y="26" width="26" height="4" fill="#ff9e64"/>
+  <rect x="46" y="28" width="2" height="1" fill="#3b4261"/><rect x="50" y="28" width="2" height="1" fill="#3b4261"/><rect x="54" y="28" width="2" height="1" fill="#3b4261"/><rect x="58" y="28" width="2" height="1" fill="#3b4261"/><rect x="62" y="28" width="2" height="1" fill="#3b4261"/>
+  <rect x="12" y="36" width="60" height="9" fill="#2a2d4e"/>
+  <rect x="12" y="36" width="2" height="9" fill="#ff9e64"/>
+  <rect x="18" y="39" width="28" height="3" fill="#c8d0f0"/>
+  <rect x="66" y="38" width="3" height="5" fill="#ff9e64"/>
+  <rect x="18" y="50" width="22" height="3" fill="#9aa5ce"/>
+  <rect x="8" y="60" width="5" height="4" fill="#7aa2f7"/>
+  <rect x="16" y="60" width="20" height="4" fill="#7aa2f7"/>
+  <rect x="18" y="70" width="18" height="3" fill="#9aa5ce"/>
+  <!-- section: agents -->
+  <rect x="8" y="88" width="6" height="6" fill="#5b6391"/>
+  <rect x="18" y="88" width="30" height="5" fill="#9aa5ce"/>
+  <rect x="8" y="102" width="5" height="4" fill="#ff9e64"/>
+  <rect x="16" y="102" width="26" height="4" fill="#ff9e64"/>
+  <!-- card 1 (working) -->
+  <rect x="8" y="112" width="64" height="30" fill="#1e2038"/>
+  <rect x="8" y="112" width="64" height="1" fill="#ff9e64"/><rect x="8" y="141" width="64" height="1" fill="#ff9e64"/>
+  <rect x="8" y="112" width="1" height="30" fill="#ff9e64"/><rect x="71" y="112" width="1" height="30" fill="#ff9e64"/>
+  <rect x="11" y="115" width="26" height="24" fill="#1c2040"/>
+  <rect x="11" y="135" width="26" height="4" fill="#3b2a5a"/>
+  <rect x="18" y="120" width="12" height="12" fill="#e24b3a"/>
+  <rect x="22" y="118" width="4" height="2" fill="#5a3a24"/>
+  <rect x="21" y="125" width="6" height="2" fill="#1b1c2a"/>
+  <rect x="40" y="116" width="18" height="6" fill="none" stroke="#ff9e64" stroke-width="1"/>
+  <rect x="42" y="118" width="12" height="2" fill="#ff9e64"/>
+  <rect x="40" y="126" width="24" height="3" fill="#c8d0f0"/>
+  <rect x="40" y="132" width="28" height="2" fill="#9aa5ce"/>
+  <!-- card 2 (idle) -->
+  <rect x="8" y="148" width="64" height="30" fill="#1e2038"/>
+  <rect x="8" y="148" width="64" height="1" fill="#2c3055"/><rect x="8" y="177" width="64" height="1" fill="#2c3055"/>
+  <rect x="8" y="148" width="1" height="30" fill="#2c3055"/><rect x="71" y="148" width="1" height="30" fill="#2c3055"/>
+  <rect x="11" y="151" width="26" height="24" fill="#1c2040"/>
+  <rect x="11" y="171" width="26" height="4" fill="#2a4c7a"/>
+  <rect x="17" y="162" width="14" height="8" fill="#565f89"/>
+  <rect x="18" y="162" width="12" height="2" fill="#7fb069"/>
+  <rect x="40" y="152" width="14" height="6" fill="none" stroke="#565f89" stroke-width="1"/>
+  <rect x="40" y="162" width="24" height="3" fill="#c8d0f0"/>
+  <rect x="40" y="168" width="28" height="2" fill="#9aa5ce"/>
+  <!-- tab bar -->
+  <rect x="79" width="241" height="22" fill="#16172a"/>
+  <rect x="79" y="22" width="241" height="1" fill="#2c3055"/>
+  <rect x="88" y="6" width="34" height="11" rx="2" fill="#1e2038" stroke="#2c3055"/>
+  <rect x="126" y="6" width="24" height="11" rx="2" fill="#16172a"/>
+  <!-- pane -->
+  <rect x="86" y="30" width="226" height="148" rx="3" fill="#1a1b26" stroke="#7aa2f7"/>
+  <rect x="86" y="44" width="226" height="1" fill="#2c3055"/>
+  <rect x="94" y="54" width="120" height="3" fill="#9ece6a"/>
+  <rect x="94" y="62" width="160" height="3" fill="#c0caf5"/>
+  <rect x="94" y="70" width="90" height="3" fill="#c0caf5"/>
+  <rect x="94" y="84" width="140" height="3" fill="#7aa2f7"/>
+  <rect x="94" y="92" width="60" height="3" fill="#c0caf5"/>
+  <rect x="94" y="106" width="6" height="8" fill="#ff9e64"/>
+  <!-- status bar -->
+  <rect x="79" y="186" width="241" height="14" fill="#16172a"/>
+  <rect x="79" y="186" width="241" height="1" fill="#2c3055"/>
+</svg>
